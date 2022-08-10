@@ -1,6 +1,6 @@
 # Hey 👋 I’m Dieter Janzen
 
-#### A Data Scientist and Neurobiologist from Germany
+### A Data Scientist and Neurobiologist from Germany
 
 Connect with me:
 
