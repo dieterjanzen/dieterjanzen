@@ -14,6 +14,7 @@ Languages and tools:
 Connect with me:
 
 <a href="https://www.linkedin.com/in/dieterjanzen/"><img alt="LinkedIn" title="LinkedIn" height="48" width="48" img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+<a href="https://www.xing.com/profile/Dieter_Janzen2"><img alt="XING" title="XING" height="48" width="48" img src="https://customer-stories-feed.github.com/customer_stories/xing/xing-logo.svg"></a>
 
 
           
