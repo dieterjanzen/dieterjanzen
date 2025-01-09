@@ -1,8 +1,7 @@
 # Hey 👋 I’m Dieter Janzen
 
-<b>A Data Scientist and Neurobiologist from Germany</b>
+A Data Scientist and Neurobiologist from Germany
 
-Languages and tools:
 <p float="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="48" width="48" alt="Python" title="Python"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="48" width="48" alt="PostgreSQL"   title="PostgreSQL"/>
